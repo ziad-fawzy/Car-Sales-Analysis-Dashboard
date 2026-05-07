@@ -1,5 +1,6 @@
 # Car Sales Data Analysis Project 🚗
-
+[!Open In Colab](https://colab.research.google.com/drive/15gOFRbLY5lT_FFhfrY0_7og5pYTV8xwy?usp=sharing)
+*Note:*If the notebook fails to render or load on GitHub, please click the button above to view the interactive version and all visualizations (WordCloud, Charts, etc.) directly in Google Colab.
 ## Project Overview
 This project provides a comprehensive analysis of car sales data, focusing on market trends, customer preferences, and brand performance. The analysis aims to transform raw sales data into actionable business insights using Python's data science ecosystem.
 
